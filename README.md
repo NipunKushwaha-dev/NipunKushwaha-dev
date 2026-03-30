@@ -57,19 +57,6 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---|---|---|
-| [🌌 3D-Book](https://github.com/NipunKushwaha-web/3D-Book) | Interactive 3D book experience on the web | JavaScript, Three.js |
-| [🤖 Code-Review-AI-Agent](https://github.com/NipunKushwaha-web/Code-Review-AI-Agent) | AI-powered automated code review agent | JavaScript, AI/LLM |
-
-</div>
-
----
-
 ## 💻 Languages I Speak
 
 <div align="center">
@@ -173,43 +160,6 @@ fun_fact: "I build 3D portfolios in space because the web needs more gravity"
 ![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=for-the-badge&logo=onnx&logoColor=white)
 ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-%23FF7F50.svg?style=for-the-badge&logo=stability-ai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-%23000000.svg?style=for-the-badge&logo=pinecone&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NipunKushwaha-web&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunKushwaha-web&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=NipunKushwaha-web&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NipunKushwaha-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NipunKushwaha-web&theme=tokyo-night&hide_border=true" />
-
-</div>
 
 ---
 
