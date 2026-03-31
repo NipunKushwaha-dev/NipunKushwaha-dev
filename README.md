@@ -69,6 +69,7 @@ fun_fact: "I build portfolios in space because the web needs more gravity 🚀"
 <div align="center">
 
 [<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" width="48" height="48"/>](https://space3dportfolio.netlify.app)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/NipunKushwaha-web)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nipun-/)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/thakurxnipun/)
 [![X](https://skillicons.dev/icons?i=twitter)](https://x.com/desireofrana)
